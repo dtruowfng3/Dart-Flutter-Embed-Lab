@@ -1,0 +1,3 @@
+## Subject EMSY Lab 
+- Week 1: Get started with Android Studio & dart/flutter. Create first app - simple calculator
+- Week 2: Uploading...
